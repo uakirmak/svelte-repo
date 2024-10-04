@@ -9,7 +9,7 @@
 	const currentDateTime = now.toLocaleString('en-CA', options);
 </script>
 
-<footer class="footer">
+<footer class="footer font-serif">
 	<p>&copy; EasyPath</p>
 
 	<p>{currentDateTime}</p>

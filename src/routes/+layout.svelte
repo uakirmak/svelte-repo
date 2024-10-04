@@ -4,7 +4,8 @@
 	import Footer from '$lib/Footer.svelte';
 </script>
 
-<div class="layout-wrapper">
+<div class=" layout-wrapper z-[-2]  bg-white bg-[radial-gradient(ellipse_80%_80%_at_50%_-20%,rgba(120,119,198,0.3),rgba(255,255,255,0))]">
+
 	<!-- Header Component -->
 	<Header />
 
@@ -28,6 +29,7 @@
 		width: 100%;
 	}
 
+	
 	.main-content {
 		flex-grow: 1;
 		padding: 2rem;

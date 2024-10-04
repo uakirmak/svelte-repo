@@ -2,9 +2,9 @@
 	<div class="hero-content">
 		<!-- Left Column (Text) -->
 		<div class="hero-text">
-			<h1>Your Future, Your Fit</h1>
-			<h2>Discover Your Perfect Path!</h2>
-			<a href="./quiz" class="quiz-link">Take the Quiz</a>
+			<h1 class="text-6xl font-bold font-serif">Your Future Your Fit</h1>
+			<h2 class="text-xl font-serif">Discover Your Perfect Path!</h2>
+			<a href="./quiz" class="quiz-link font-sans">Take the Quiz</a>
 		</div>
 
 		<!-- Right Column (Image) -->

@@ -9,8 +9,8 @@
 </script>
 
 <main>
-	<h1>Explore Your Future Career Paths with Our App</h1>
-	<p>
+	<h1 class="font-serif">Explore Your Future Career Paths with Our App</h1>
+	<p class="font-sans">
 		If you are a high school student interested in using our app to explore your career prospects,
 		please provide us with feedback to help us improve!
 	</p>
@@ -23,7 +23,7 @@
 				bind:value={name} required />
 			</div>
 
-			<div>
+			<div class="font-sans">
 				<label for="email">Email:</label>
 				<input type="email" id="email" class="hover:border-red-500 hover:border-solid hover:text-black-500"
 				bind:value={email} required />
@@ -54,7 +54,7 @@
 	}
 
 	p {
-		text-align: center;
+		text-align: left;
 		font-size: 1.2rem;
 		margin-bottom: 2rem; /* Add space after the paragraph */
 	}
