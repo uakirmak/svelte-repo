@@ -59,7 +59,7 @@
       "_ssr.js"
     ],
     "css": [
-      "_app/immutable/assets/_layout.CE1KMJAF.css"
+      "_app/immutable/assets/_layout.DJBKFdjl.css"
     ]
   },
   "src/routes/+page.svelte": {
@@ -92,7 +92,7 @@
       "_ssr.js"
     ],
     "css": [
-      "_app/immutable/assets/_page.CxKqNnNp.css"
+      "_app/immutable/assets/_page.C4W-D0Hu.css"
     ]
   },
   "src/routes/quiz/+page.svelte": {
