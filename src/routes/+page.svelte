@@ -4,12 +4,12 @@
 		<div class="hero-text">
 			<h1>Your Future, Your Fit</h1>
 			<h2>Discover Your Perfect Path!</h2>
-			<a href="/quiz" class="quiz-link">Take the Quiz</a>
+			<a href="./quiz" class="quiz-link">Take the Quiz</a>
 		</div>
 
 		<!-- Right Column (Image) -->
 		<div class="hero-image">
-			<img src="/hero-img.webp" alt="educational path, light at the horizon" />
+			<img src="./hero-img.webp" alt="educational path, light at the horizon" />
 		</div>
 	</div>
 </div>

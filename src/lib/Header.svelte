@@ -1,11 +1,11 @@
 <header class="header">
 	<div class="header-container">
-		<img src="/logo.png" alt="logo" class="logo" />
+		<img src="./logo.png" alt="logo" class="logo" />
 		<nav class="nav">
 			<ul>
-				<li><a href="/">Home</a></li>
-				<li><a href="/about">About</a></li>
-				<li><a href="/contact">Contact</a></li>
+				<li><a href="./">Home</a></li>
+				<li><a href="./about">About</a></li>
+				<li><a href="./contact">Contact</a></li>
 			</ul>
 		</nav>
 	</div>
