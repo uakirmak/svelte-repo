@@ -19,17 +19,20 @@
 		<form on:submit|preventDefault={handleSubmit}>
 			<div>
 				<label for="name">Name:</label>
-				<input type="text" id="name" bind:value={name} required />
+				<input type="text" id="name" class="hover:border-red-500 hover:border-solid hover:text-black-500"
+				bind:value={name} required />
 			</div>
 
 			<div>
 				<label for="email">Email:</label>
-				<input type="email" id="email" bind:value={email} required />
+				<input type="email" id="email" class="hover:border-red-500 hover:border-solid hover:text-black-500"
+				bind:value={email} required />
 			</div>
 
 			<div>
 				<label for="message">Your Feedback:</label>
-				<textarea id="message" bind:value={message} required></textarea>
+				<textarea id="message" bind:value={message} class="hover:border-red-500 hover:border-solid hover:text-black-500"
+				required></textarea>
 			</div>
 
 			<button type="submit">Submit</button>
